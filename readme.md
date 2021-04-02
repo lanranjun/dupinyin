@@ -32,3 +32,7 @@ pyinstaller -F main.py
 - dist文件夹存放生成的exe文件
 - 将下载的发音文件mp3格式转为wav类型 复制到 dist/目录下，然后运行exe文件即可
 - 使用键盘Esc键退出
+
+## 想省事的可以直接网盘下载exe程序
+- 链接：https://pan.baidu.com/s/1dnLKNHf4uYho9pV_IUwlHA 
+- 提取码：0uf5 
