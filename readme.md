@@ -15,13 +15,9 @@ https://dazi.kukuw.com/key.php?kid=p1
 下载下来的是mp3格式 可以转wav使用
 本项目使用的是wav，转换工具waveMaker
 
-## 未实现部分
-- 翘舌音发音
-- 整体音节发音
-
 ## 使用方法
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 - PyAudio需要下载whl文件
 - pynput高版本会在pyinstaller导出exe时报错 这里使用1.6.8版本
