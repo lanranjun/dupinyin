@@ -30,5 +30,5 @@ pyinstaller -F main.py
 - 使用键盘Esc键退出
 
 ## 想省事的可以直接网盘下载exe程序
-- 链接：https://pan.baidu.com/s/1dnLKNHf4uYho9pV_IUwlHA 
-- 提取码：0uf5 
+- 链接：https://pan.baidu.com/s/1Ga75Nm39I14J7EkJsdMd4w 
+- 提取码：dgby 
